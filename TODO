@@ -1,0 +1,10 @@
+fatores primos:
+
+- retorna se um número é primo
+
+- para 1 deve retornar 1
+- para 2 deve retornar 2
+- para todos números primos retorna o próprio número
+- 100 = 2 x 2 x 5 x 5
+- 198 = 2 x 3 x 3 x 11
+- 276 = 2 x 2 x 3 x 23
